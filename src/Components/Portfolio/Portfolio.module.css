@@ -1,0 +1,13 @@
+.image{
+    cursor: pointer;
+}
+.icon{
+    margin-top: 69px;
+    height: 79%;
+    background-color: #29b198c2;
+    opacity: 0;
+}
+.icon:hover{
+    opacity: 1;
+    transition: all 1s;
+}

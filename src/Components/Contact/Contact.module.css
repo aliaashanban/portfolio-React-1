@@ -1,0 +1,14 @@
+.butn{
+    margin-right: 600px;
+    background-color:#fd6a50;
+    color: white;
+    border-radius: 20px;
+    padding-inline: 10px;
+    font-size: 20px;
+    border-color:#fd6a50;;
+    margin-top: 50px;
+}
+.butn:hover{
+    background-color: #ff9d8b;
+    color: black;
+}

@@ -1,0 +1,7 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+  color: white !important ;
+  font-weight: 500;
+  background-color: rgb(243, 143, 126) !important;
+  width: fit-content;
+  border-radius: 20px;
+}
