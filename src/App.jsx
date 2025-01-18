@@ -11,6 +11,7 @@ import About from './Components/About/About'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Contact from './Components/Contact/Contact'
 import NotFound from './Components/NotFound/NotFound'
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle"
 import './index.css' 
 
 
